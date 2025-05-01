@@ -1,0 +1,12 @@
+Welcome to the Hotel
+1. Masala Dosa - ₹120
+2. Butter Dosa - ₹90
+3. Idly - ₹80
+4. Wada - ₹52
+5. Exit
+Your order for 5 Wada(s) is confirmed. Total: ₹260
+Your order for 5 Butter Dosa(s) is confirmed. Total: ₹450
+Your order for 3 Wada(s) is confirmed. Total: ₹156
+Thank you for visiting the hotel!
+Total transaction for the day: ₹866
+Thank you for visiting the hotel!
